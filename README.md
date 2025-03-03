@@ -147,7 +147,69 @@ agile is used in dynamic environment where waterfall is used in lower risks proj
 
 agile :
 kanban and scrum 
+
+-- state all web applications in web development and services --
+*cliend side rendering*
+-blazor :
+Ban open-source web framework that enables programmers to use C# and.NET to create interactive client-side web applications. To put it briefly, client-side Blazor  uses WebAssembly to bring C# to the browser.
+Enables progressive web app development.
+Create reusable C# components.
+Server-side debugging is fully enabled.
+Server-side rendering for faster WebSocket connections.
+-angular:
+used in JavaScript. But with the development of the technology, TypeScript has replaced JavaScript in Angular.
+-next.js: Server-side rendering and static rendering are two more functionalities made possible by the React framework Next.js.
+*server side rendering*:
+MVC/BLAZOR:
+represents the date applications  in the presentation tier 
+(( *backend* ))(logic tier) : .net/.net core framework 
+2- programming language c#
+*data tier* // (database):
+SQL server(c#) to ORM  (entity framework)
+
+-- web stacks --
+LARREL : MYSQL . PHP 
+JAVA: ORACLE . JAVE SPRING 
+.NET:DQLSERVEER C#.NET 
+PYHTON : SQLHTE , PYHTON DIANGO
+
+-- TOOLS FOR DEPLOYEMENT --
+DOCKER 
+AZURE -- DEPOLYEMENT 
+C# 
+.NET 
+DATABASAE SERVER -SQLSERVER
 4-- scrum framework for agile : timings , meetings, roles --
 timimgs : the agile largely depend in the timings for every iterations theres a limited timings 
+
+-- explain in detail the git version control system explaining why and when we use it and all the related terms --
+used to monitor file modifications for example merging and manage the efforts of several developers. It enables developers to effectively organize their source code, monitor modifications, work together, and roll back to earlier iterations when needed.branching -merging and most importantly handling conflicts .
+*usage*:
+1- branching // having a testing code for addition and trying new features so that the main code wont get affected 
+2- merging // after positive and affective adddition to  the code , the main line will merge the feartures added  to the code or the project
+3- handling conflicts 
+*when to use it?*
+- when handeling conflicts , a need to add new lines for tghe projects and pushing files to the hub by the cmd and for the team projects .
+
+
+-- mention all the cloud repositories that uses git version control and compare between them --
+1- github : open source projects 
+2- git lab : self hosted 
+3-azure devops:microsoft for enterprising 
+4-google cloud: enterprises 
+5-bitbucket : private repostories 
+
+
+-- state all the commands that you know with the explaining of each function of them --
+git status (check if the user updated the file before adding)
+git add . (adding the file to the system after updating )
+git commit -m"" (for adding commit to the file )
+git log --oneline (show the changes to the unstaged file)
+git push (pushing the file to the repo)
+git pull (pulling the file if the changed had been made in the repo ((adding commit))--for exmaple
+git config user.name global
+git config user.email global 
+after installing the git so the cloud get known by the system and in the folders 
+
 meetings : standup meetings (daily) , sprint planning , sprint review and sprint retrospective 
 roles  
