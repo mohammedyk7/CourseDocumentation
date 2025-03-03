@@ -7,17 +7,19 @@ outputs: backlog sheet created for the team filled with the tasks and iterations
 2-design :
  During the first coding phase, developers use this phase as a guidance. The primary goal is to produce a comprehensive design that describes the system's functionality, user interfaces, and database structure.
 inputs : user customization need for the web , colors and paints 
-
 outputs :designed web template as a prototype which will be reviewed to the developer UI/UX
+
 3-developer:
 a web developers is the one who codes , for instance , the developer recieves the ui/ux template from the designer and code throught (the front end develper ) 
 front end developer is also resposible for the front page the the customer or the user see .
+
 back end : the developer behind the work used 
 inputs : api designs by the backend developer 
 outputs:api integrations linked to the client side rendering 
-input of the front end : api codes recieved by the back-end 
 
+input of the front end : api codes recieved by the back-end 
 output : integrate the api data 
+
 4-testing :
 As soon as programming is complete, testing begins. Any flaws in the program are repaired after a comprehensive evaluation. This stage guarantees that the program satisfies client needs.
 inputs : reporting bugs and report the test for the results 
@@ -29,25 +31,31 @@ rearrange the prioroites of each error
 is the crucial step in releasing developed software to its target audience. As the software enters a live environment, it marks the completion of development and testing activities.
 inputs : check for security and develop the web 
 outputs :verification and debug errors 
-maintainance :
+
+-maintainance :
 is the final part of the project that manages updates and fixes, guarantees ongoing software operation, and keeps the program current and working.
 inputs : feedbacks from the user and apply changes in the project if needed 
 cpu and memory usage 
 outputs :
 reslove the issues from the user 
 update the softtware changes if needed 
+
 ----roles---
 (analysis)
+
 -product owner:
 the one that masters the customer needs for the product demand required (csutomization , prioroties .. etc..)
+
 -project manager:
 accountable for overseeing the budget, timeline, and resources in addition to establishing the project's goals, deliverables, and scope.
+
 -buisness analyst :
 Working together with stakeholders, we may collect and evaluate requirements, facilitate system design, establish user acceptance criteria, and make sure the software is designed to meet user wants and corporate objectives.
 
 -CTO:
 Each company has a different CTO role. Software development businesses select the CTO type that best suits their goals and business needs from a variety of options. Technical leadership and operational management are the two main categories of CTOs.who's mostly aware of the most sdlc phases technically and practically (fully experienced in web development)
 (design)
+
 -system architecht:
 safe system architecture. creates the software's user interface (UI) and user experience (UX), making sure it is both aesthetically pleasing and intuitive according to the user stories 
 
@@ -99,6 +107,7 @@ ssms(sql server management studio) --- ORM (entity framework)
 -devops :
 manage the cloud and the system , moreover , troubleshooting.
 tools : gitlab , github and bitbucket 
+
 (maintainance):
 users : 
 feedbacks for the technical team according to the perfomance and requests 
@@ -163,6 +172,7 @@ used in JavaScript. But with the development of the technology, TypeScript has r
 MVC/BLAZOR:
 represents the date applications  in the presentation tier 
 (( *backend* ))(logic tier) : .net/.net core framework 
+
 2- programming language c#
 *data tier* // (database):
 SQL server(c#) to ORM  (entity framework)
@@ -173,12 +183,13 @@ JAVA: ORACLE . JAVE SPRING
 .NET:DQLSERVEER C#.NET 
 PYHTON : SQLHTE , PYHTON DIANGO
 
--- TOOLS FOR DEPLOYEMENT --
+3-- TOOLS FOR DEPLOYEMENT --
 DOCKER 
 AZURE -- DEPOLYEMENT 
 C# 
 .NET 
 DATABASAE SERVER -SQLSERVER
+
 4-- scrum framework for agile : timings , meetings, roles --
 timimgs : the agile largely depend in the timings for every iterations theres a limited timings 
 
