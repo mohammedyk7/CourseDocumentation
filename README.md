@@ -44,32 +44,40 @@ the one that masters the customer needs for the product demand required (csutomi
 accountable for overseeing the budget, timeline, and resources in addition to establishing the project's goals, deliverables, and scope.
 -buisness analyst :
 Working together with stakeholders, we may collect and evaluate requirements, facilitate system design, establish user acceptance criteria, and make sure the software is designed to meet user wants and corporate objectives.
+
 -CTO:
 Each company has a different CTO role. Software development businesses select the CTO type that best suits their goals and business needs from a variety of options. Technical leadership and operational management are the two main categories of CTOs.who's mostly aware of the most sdlc phases technically and practically (fully experienced in web development)
 (design)
 -system architecht:
 safe system architecture. creates the software's user interface (UI) and user experience (UX), making sure it is both aesthetically pleasing and intuitive according to the user stories 
+
 -UI/UX designer :
 are found in software product development, design, and marketing. This individual is continuously engaged in the development of digital products and seeks for ways to improve their usability.
 for example : Users of a video streaming service may prefer to search for characters over video titles, according to individual testing. Therefore, incorporating a feature that displays character images while users type in a search bar ought to boost user engagement.
 (development):
+
 -front end developer :
 Converting UI design to code, implementing interactive elements, optimizing performance
 tools: HTML, CSS, JavaScript, libraries, and  frameworks (technologies)
+
 -back end developer :
 Developing server logic, managing databases, creating APIs(vs+ssms), handling security, scalability, and performance
 tools :c sharp +.net framework
 database: SQL server (data tier)
 (testing)
+
 -solution architecht:
 guarantee that the solutions are dependable, effective, and smoothly itegrated into the larger IT system by supporting and managing the adoption of automated testing procedures. This promotes innovation and strategic expansion in addition to business stability.
 tools : Figma , github for deployments 
+
 -QA engineer :
 in charge of creating and putting into practice testing procedures, techniques, and instruments to find and fix any problems or flaws in software programs.
 tools :for api testing "post man "
+
 -tester:
 Focuses on finding and reporting bugs , Test execution—manual or automated and Find bugs before the product is released
 tools : unit test"x unit " and api testing "post man"
+
 -Devops:
 A DevOps process needs to use the right tools to  address the key phases of the DevOps lifecycle:
 
@@ -81,11 +89,13 @@ Monitor
 Operate
 Continuous feedback  
 (deployment):
+
 -data administrator :
 is the person or people in charge of overseeing, managing, organizing, and running a database management system. One of the main responsibilities is to manage, secure, and maintain the database systems. They are in charge of approving database access, organizing, capacity, planning, installing, and keeping an eye on usage, as well as obtaining and assembling hardware and software resources as required. They also play a variety of roles in data recovery, backup, security, migration, database architecture, and setup. For any business or organization that depends on one or more databases, database administration is a crucial and important task. They are in charge of the database system as a whole.
 
 tools : SQL server ( for c#) + microsoft visio 
 ssms(sql server management studio) --- ORM (entity framework) 
+
 -devops :
 manage the cloud and the system , moreover , troubleshooting.
 tools : gitlab , github and bitbucket 
@@ -94,7 +104,8 @@ users :
 feedbacks for the technical team according to the perfomance and requests 
 testers:
 fix bugs and running the tests and most importants is witnissing the security testing 
-support managers :
+
+-support managers :
 additional testing after deployment and installing upgrades . meeting with the insurtance company 
 lead the team members  and add tasks if needed .
 tracking the software updates and changes 
@@ -107,20 +118,24 @@ The Agile methodology is a project management technique that prioritizes adaptab
 agile methodologies are well known for breaking a project up into manageable parts and adjusting to changing needs.
 Their key concerns are client satisfaction, teamwork, and flexibility.
 Large companies like Facebook, Google, and Amazon have embraced agile due to its adaptability and customer-focused approach.
+
 2--AGILE VS WATEWRFALL--
 ADVANTAGES OF AGILE :
 1- flexibilty : allows the team to respond to changes in requirements, client feedback & market trends quickly.
 2-adaptability : ssures that the final product meets the customer's expectations & satisfies their needs.
 3- continious delivery :continuous delivery of operating software solutions. This process confirms that the development team can provide high-quality software solutions to customers quickly.
+
 DISADVATAGES OF AGILE :
 1- Lack of Predictability :  The team can find it difficult to estimate how long a work would take, and the finished result might not meet the original specifications. Customers and stakeholders that anticipate a predictable timeframe for the software solution's delivery may become frustrated by the lack of predictability. 
 2-Limited Scope:In terms of the software solution's scope, this method may be restrictive. Within the allotted period, the development team can find it difficult to provide a complete solution that satisfies every need of the client.
+
 ADVANTAGES OF WATERFALL :
 1-less coordination is needed because the stages and sequential operations are clearly defined.
 2-A well-defined project phase aids in defining work dependencies.
 3-Once the requirements are established, the project's cost can be estimated.
 Increased emphasis on requirements and design documentation
 enables big or evolving teams to collaborate toward a shared objective established during the requirements phase.
+
 DISADVANTAGES OF WATERFALL:
 1-Making adjustments is not supported by the waterfall model.
 2-It can render your earlier work inadmissible.
@@ -129,6 +144,7 @@ DISADVANTAGES OF WATERFALL:
 5-Longer delivery times may be encouraged by the waterfall methodology.
 agile is used in dynamic environment where waterfall is used in lower risks projects and doesn't require speed
 3-- state all framneworks --
+
 agile :
 kanban and scrum 
 4-- scrum framework for agile : timings , meetings, roles --
