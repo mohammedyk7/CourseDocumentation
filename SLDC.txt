@@ -30,3 +30,65 @@ cpu and memory usage
 outputs :
 reslove the issues from the user 
 update the softtware changes if needed 
+----roles---
+(analysis)
+-product owner:
+the one that masters the customer needs for the product demand required (csutomization , prioroties .. etc..)
+-project manager:
+accountable for overseeing the budget, timeline, and resources in addition to establishing the project's goals, deliverables, and scope.
+-buisness analyst :
+Working together with stakeholders, we may collect and evaluate requirements, facilitate system design, establish user acceptance criteria, and make sure the software is designed to meet user wants and corporate objectives.
+-CTO:
+Each company has a different CTO role. Software development businesses select the CTO type that best suits their goals and business needs from a variety of options. Technical leadership and operational management are the two main categories of CTOs.who's mostly aware of the most sdlc phases technically and practically (fully experienced in web development)
+(design)
+-system architecht:
+safe system architecture. creates the software's user interface (UI) and user experience (UX), making sure it is both aesthetically pleasing and intuitive according to the user stories 
+-UI/UX designer :
+are found in software product development, design, and marketing. This individual is continuously engaged in the development of digital products and seeks for ways to improve their usability.
+for example : Users of a video streaming service may prefer to search for characters over video titles, according to individual testing. Therefore, incorporating a feature that displays character images while users type in a search bar ought to boost user engagement.
+(development):
+-front end developer :
+Converting UI design to code, implementing interactive elements, optimizing performance
+tools: HTML, CSS, JavaScript, libraries, and  frameworks (technologies)
+-back end developer :
+Developing server logic, managing databases, creating APIs(vs+ssms), handling security, scalability, and performance
+tools :c sharp +.net framework
+database: SQL server (data tier)
+(testing)
+-solution architecht:
+guarantee that the solutions are dependable, effective, and smoothly itegrated into the larger IT system by supporting and managing the adoption of automated testing procedures. This promotes innovation and strategic expansion in addition to business stability.
+tools : Figma , github for deployments 
+-QA engineer :
+in charge of creating and putting into practice testing procedures, techniques, and instruments to find and fix any problems or flaws in software programs.
+tools :for api testing "post man "
+-tester:
+Focuses on finding and reporting bugs , Test execution—manual or automated and Find bugs before the product is released
+tools : unit test"x unit " and api testing "post man"
+-Devops:
+A DevOps process needs to use the right tools to  address the key phases of the DevOps lifecycle:
+
+Discover
+Plan
+Build-- DOCKER - Github - Jira
+Test 
+Monitor 
+Operate
+Continuous feedback  
+(deployment):
+-data administrator :
+is the person or people in charge of overseeing, managing, organizing, and running a database management system. One of the main responsibilities is to manage, secure, and maintain the database systems. They are in charge of approving database access, organizing, capacity, planning, installing, and keeping an eye on usage, as well as obtaining and assembling hardware and software resources as required. They also play a variety of roles in data recovery, backup, security, migration, database architecture, and setup. For any business or organization that depends on one or more databases, database administration is a crucial and important task. They are in charge of the database system as a whole.
+
+tools : SQL server ( for c#) + microsoft visio 
+ssms(sql server management studio) --- ORM (entity framework) 
+-devops :
+manage the cloud and the system , moreover , troubleshooting.
+tools : gitlab , github and bitbucket 
+(maintainance):
+users : 
+feedbacks for the technical team according to the perfomance and requests 
+testers:
+fix bugs and running the tests and most importants is witnissing the security testing 
+support managers :
+additional testing after deployment and installing upgrades . meeting with the insurtance company 
+lead the team members  and add tasks if needed .
+tracking the software updates and changes 
