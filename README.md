@@ -1,10 +1,13 @@
 ![image](https://github.com/user-attachments/assets/6bc4c67b-2e95-4b1e-b551-b4c48d88b04f)
+
 1- analysis :
 This phase's goal is to provide a more thorough definition of the system's inputs, outputs, processes, and interfaces. The system's procedures will be specified at the functional level at the end of this phase, which means that while the functions that need to be carried out will be known, the methods by which they will be carried out may not be. inputs : collect the client requirements and demnads for the project 
+
 outputs: backlog sheet created for the team filled with the tasks and iterations and timings .
 2-design :
  During the first coding phase, developers use this phase as a guidance. The primary goal is to produce a comprehensive design that describes the system's functionality, user interfaces, and database structure.
 inputs : user customization need for the web , colors and paints 
+
 outputs :designed web template as a prototype which will be reviewed to the developer UI/UX
 3-developer:
 a web developers is the one who codes , for instance , the developer recieves the ui/ux template from the designer and code throught (the front end develper ) 
@@ -13,6 +16,7 @@ back end : the developer behind the work used
 inputs : api designs by the backend developer 
 outputs:api integrations linked to the client side rendering 
 input of the front end : api codes recieved by the back-end 
+
 output : integrate the api data 
 4-testing :
 As soon as programming is complete, testing begins. Any flaws in the program are repaired after a comprehensive evaluation. This stage guarantees that the program satisfies client needs.
@@ -20,6 +24,7 @@ inputs : reporting bugs and report the test for the results
 check the web perfomance if it passes or fails 
 outputs : report the test results for the team to check for errors 
 rearrange the prioroites of each error 
+
 5-deployement:
 is the crucial step in releasing developed software to its target audience. As the software enters a live environment, it marks the completion of development and testing activities.
 inputs : check for security and develop the web 
