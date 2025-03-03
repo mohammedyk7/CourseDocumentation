@@ -12,3 +12,13 @@ used to monitor file modifications for example merging and manage the efforts of
 3-azure devops:microsoft for enterprising 
 4-google cloud: enterprises 
 5-bitbucket : private repostories 
+-- state all the commands that you know with the explaining of each function of them --
+git status (check if the user updated the file before adding)
+git add . (adding the file to the system after updating )
+git commit -m"" (for adding commit to the file )
+git log --oneline (show the changes to the unstaged file)
+git push (pushing the file to the repo)
+git pull (pulling the file if the changed had been made in the repo ((adding commit))--for exmaple
+git config user.name global
+git config user.email global 
+after installing the git so the cloud get known by the system and in the folders 
