@@ -99,6 +99,9 @@ additional testing after deployment and installing upgrades . meeting with the i
 lead the team members  and add tasks if needed .
 tracking the software updates and changes 
 
+![image](https://github.com/user-attachments/assets/4b58aee4-d318-4d16-b15a-586d29659ed2)
+
+
 -- agile methadology of working and its purposes --
 The Agile methodology is a project management technique that prioritizes adaptability and team work. Big businesses like Facebook, Google, Amazon, and others adopt this most recent approach. 
 agile methodologies are well known for breaking a project up into manageable parts and adjusting to changing needs.
