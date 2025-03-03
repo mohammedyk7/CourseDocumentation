@@ -17,3 +17,10 @@ represents the date applications  in the presentation tier
 *data tier* // (database):
 SQL server(c#) to ORM  (entity framework)
 
+-- web stacks --
+LARREL : MYSQL . PHP 
+JAVA: ORACLE . JAVE SPRING 
+.NET:DQLSERVEER C#.NET 
+PYHTON : SQLHTE , PYHTON DIANGO
+
+
