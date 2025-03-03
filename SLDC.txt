@@ -1,0 +1,4 @@
+1- analysis :
+producrt owner : the position of the company cliend handler who's a master in praticing agile wisely , thus , creates the backlog required from the customer and rearragne the requirements and listing the priorities form 1-8 for example and that which should be discussed with the team and the scrum master . Plays three rules as a product owner , project manager and buisess analyst . the CTO is usaully a master in these three aspects 
+2-design :
+the system architecht the one that designes the template for the front end and backends developers 
