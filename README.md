@@ -135,6 +135,7 @@ ADVANTAGES OF AGILE :
 2-adaptability : ssures that the final product meets the customer's expectations & satisfies their needs.
 3- continious delivery :continuous delivery of operating software solutions. This process confirms that the development team can provide high-quality software solutions to customers quickly.
 
+
 DISADVATAGES OF AGILE :
 1- Lack of Predictability :  The team can find it difficult to estimate how long a work would take, and the finished result might not meet the original specifications. Customers and stakeholders that anticipate a predictable timeframe for the software solution's delivery may become frustrated by the lack of predictability. 
 2-Limited Scope:In terms of the software solution's scope, this method may be restrictive. Within the allotted period, the development team can find it difficult to provide a complete solution that satisfies every need of the client.
@@ -155,7 +156,9 @@ DISADVANTAGES OF WATERFALL:
 agile is used in dynamic environment where waterfall is used in lower risks projects and doesn't require speed
 3-- state all framneworks --
 
-agile :
+agile framework:
+![Screenshot 2025-03-03 211019](https://github.com/user-attachments/assets/e307a13a-7ebf-4c15-bc17-852668a1fc5b)
+
 kanban and scrum 
 
 -- state all web applications in web development and services --
