@@ -214,12 +214,19 @@ used to monitor file modifications for example merging and manage the efforts of
 - when handeling conflicts , a need to add new lines for tghe projects and pushing files to the hub by the cmd and for the team projects .
 
 
+
 -- mention all the cloud repositories that uses git version control and compare between them --
+
 1- github : open source projects 
+
 2- git lab : self hosted 
+
 3-azure devops:microsoft for enterprising 
+
 4-google cloud: enterprises 
+
 5-bitbucket : private repostories 
+
 
 ![image](https://github.com/user-attachments/assets/f7c0355a-5edc-496d-9ee8-3532a25e269f)
 
