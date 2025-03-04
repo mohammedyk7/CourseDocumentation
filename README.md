@@ -157,6 +157,7 @@ agile is used in dynamic environment where waterfall is used in lower risks proj
 3-- state all framneworks --
 
 agile framework:
+
 ![Screenshot 2025-03-03 211019](https://github.com/user-attachments/assets/e307a13a-7ebf-4c15-bc17-852668a1fc5b)
 
 kanban and scrum 
