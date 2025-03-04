@@ -51,6 +51,9 @@ update the softtware changes if needed
 -product owner:
 the one that masters the customer needs for the product demand required (csutomization , prioroties .. etc..)
 
+![ProductBacklog](https://github.com/user-attachments/assets/0faa3e41-2b30-47f2-a38a-f2455296a9a1)
+
+
 -project manager:
 accountable for overseeing the budget, timeline, and resources in addition to establishing the project's goals, deliverables, and scope.
 
@@ -162,11 +165,21 @@ agile is used in dynamic environment where waterfall is used in lower risks proj
 
 agile framework:
 
-![Screenshot 2025-03-03 211019](https://github.com/user-attachments/assets/e307a13a-7ebf-4c15-bc17-852668a1fc5b)
+![Screenshot 2025-03-03 211019](https://github.com/user-attachments/assets/e307a13a-7ebf-4c15-bc17-852668a1fc5b) 
 
-kanban and scrum 
+### kanban and scrum 
+--SCRUM
 
--- state all web applications in web development and services --
+![Scrum1](https://github.com/user-attachments/assets/fac1142d-1d2d-4ed7-9aa5-e117311448c4)                                                       
+
+
+--KANBAN
+
+![image](https://github.com/user-attachments/assets/dc6d28cc-f7a0-439a-b081-d1eeac09f9d2)
+
+
+
+--## state all web applications in web development and services --
 *cliend side rendering*
 -blazor :
 Ban open-source web framework that enables programmers to use C# and.NET to create interactive client-side web applications. To put it briefly, client-side Blazor  uses WebAssembly to bring C# to the browser.
