@@ -225,3 +225,5 @@ after installing the git so the cloud get known by the system and in the folders
 
 meetings : standup meetings (daily) , sprint planning , sprint review and sprint retrospective 
 roles  
+![image](https://github.com/user-attachments/assets/aa9ef437-391a-4069-b81a-7510931557db)
+
