@@ -1,9 +1,10 @@
 ![image](https://github.com/user-attachments/assets/6bc4c67b-2e95-4b1e-b551-b4c48d88b04f)
 
 1- analysis :
-This phase's goal is to provide a more thorough definition of the system's inputs, outputs, processes, and interfaces. The system's procedures will be specified at the functional level at the end of this phase, which means that while the functions that need to be carried out will be known, the methods by which they will be carried out may not be. inputs : collect the client requirements and demnads for the project 
-
+This phase's goal is to provide a more thorough definition of the system's inputs, outputs, processes, and interfaces. The system's procedures will be specified at the functional level at the end of this phase, which means that while the functions that need to be carried out will be known, the methods by which they will be carried out may not be.
+inputs : collect the client requirements and demnads for the project 
 outputs: backlog sheet created for the team filled with the tasks and iterations and timings .
+
 2-design :
  During the first coding phase, developers use this phase as a guidance. The primary goal is to produce a comprehensive design that describes the system's functionality, user interfaces, and database structure.
 inputs : user customization need for the web , colors and paints 
@@ -12,8 +13,8 @@ outputs :designed web template as a prototype which will be reviewed to the deve
 3-developer:
 a web developers is the one who codes , for instance , the developer recieves the ui/ux template from the designer and code throught (the front end develper ) 
 front end developer is also resposible for the front page the the customer or the user see .
-
 back end : the developer behind the work used 
+
 inputs : api designs by the backend developer 
 outputs:api integrations linked to the client side rendering 
 
@@ -32,7 +33,7 @@ is the crucial step in releasing developed software to its target audience. As t
 inputs : check for security and develop the web 
 outputs :verification and debug errors 
 
--maintainance :
+6-maintainance :
 is the final part of the project that manages updates and fixes, guarantees ongoing software operation, and keeps the program current and working.
 inputs : feedbacks from the user and apply changes in the project if needed 
 cpu and memory usage 
