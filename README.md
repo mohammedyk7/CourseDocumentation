@@ -44,6 +44,9 @@ update the softtware changes if needed
 ----roles---
 (analysis)
 
+![Uploading image.png…]()
+
+
 -product owner:
 the one that masters the customer needs for the product demand required (csutomization , prioroties .. etc..)
 
