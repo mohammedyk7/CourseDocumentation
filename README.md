@@ -193,6 +193,8 @@ DATABASAE SERVER -SQLSERVER
 
 4-- scrum framework for agile : timings , meetings, roles --
 timimgs : the agile largely depend in the timings for every iterations theres a limited timings 
+meetings : standup meetings (daily) , sprint planning , sprint review and sprint retrospective 
+roles  
 
 -- explain in detail the git version control system explaining why and when we use it and all the related terms --
 used to monitor file modifications for example merging and manage the efforts of several developers. It enables developers to effectively organize their source code, monitor modifications, work together, and roll back to earlier iterations when needed.branching -merging and most importantly handling conflicts .
@@ -211,6 +213,9 @@ used to monitor file modifications for example merging and manage the efforts of
 4-google cloud: enterprises 
 5-bitbucket : private repostories 
 
+![image](https://github.com/user-attachments/assets/f7c0355a-5edc-496d-9ee8-3532a25e269f)
+
+
 
 -- state all the commands that you know with the explaining of each function of them --
 git status (check if the user updated the file before adding)
@@ -223,7 +228,5 @@ git config user.name global
 git config user.email global 
 after installing the git so the cloud get known by the system and in the folders 
 
-meetings : standup meetings (daily) , sprint planning , sprint review and sprint retrospective 
-roles  
-![image](https://github.com/user-attachments/assets/aa9ef437-391a-4069-b81a-7510931557db)
+
 
