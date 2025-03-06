@@ -1,0 +1,9 @@
+integer score
+{70, 80 ,90 }
+STUDENT A =70
+STUDENT B =80 
+STUDENT C =90 
+if score LESS THAN OR EQUAL TO B
+PRINT("lowest score")
+else if (score greater than or equal to c)
+printf("highest score:);
