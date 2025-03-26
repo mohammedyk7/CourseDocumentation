@@ -1,0 +1,7 @@
+Procedural Programming: Uses functions or a procedure (C, Pascal).
+
+Object-Oriented Programming (OOP): Uses objects and classes (Java, C#).
+
+Functional Programming: Treats computation as function evaluation (Haskell, Lisp).
+////------------///// oop example in c#:
+Console.WriteLine("Car Model: " + Model);
