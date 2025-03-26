@@ -1,0 +1,14 @@
+find number of vowels in the word "string"
+number of vowels = 5 
+number of vowels in the word string=1
+let s=4 //not vowel
+let t=2//not vowel 
+let r=3//not vowel
+let i=1 //vowel
+let n =5//not vowel
+let g = 6//not vowel
+number of no tvowel = 4
+not vowel =x
+number of vowel =1 
+vowel =y
+if input = y  let result be 1
