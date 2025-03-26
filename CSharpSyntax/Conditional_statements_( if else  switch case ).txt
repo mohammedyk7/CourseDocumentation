@@ -1,0 +1,11 @@
+Conditional Statements:
+if (age >= 18) {
+  Console.WriteLine("Adult");
+} else {
+  Console.WriteLine("Minor");
+}
+Switch case example:
+switch(day) {
+  case 1: Console.WriteLine("Monday"); break;
+  default: Console.WriteLine("Invalid"); break;
+}

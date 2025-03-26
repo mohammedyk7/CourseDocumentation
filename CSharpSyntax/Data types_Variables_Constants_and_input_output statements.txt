@@ -1,0 +1,8 @@
+Data Types, Variables, Constants, and I/O Statements
+
+C# Example:
+int age = 25;  // Variable
+const double PI = 3.14;  // Constant
+Console.WriteLine("Enter your name:");
+string name = Console.ReadLine();
+Console.WriteLine("Hello " + name);

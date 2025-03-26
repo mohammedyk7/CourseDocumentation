@@ -1,0 +1,8 @@
+Arithmetic and Logic Operators
+
+Arithmetic: +, -, *, /, %
+
+Logical: &&, ||, !
+
+Example:
+result = (5 > 3) && (10 < 20)

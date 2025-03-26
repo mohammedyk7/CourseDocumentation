@@ -1,0 +1,13 @@
+// pushing files using CMD //
+
+
+
+1. initialization :
+git innit 
+2.adding 
+git add .  or git add file.txt
+3.git commit 
+git commit -m"git"
+4.git push
+git remote add origin https://github.com/yourusername/course_documentation.git
+git push -u origin main

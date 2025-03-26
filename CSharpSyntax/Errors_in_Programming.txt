@@ -1,0 +1,14 @@
+rrors in Programming
+
+As a beginner, it's crucial to understand errors in programming:
+
+Syntax Errors: Incorrect syntax (missing semicolon).
+
+Runtime Errors: Errors occurring during execution (divide by zero).
+
+Logical Errors: Incorrect logic (wrong formula used).
+try {
+  int x = 10 / 0; // 
+} catch (Exception e) {
+  Console.WriteLine("Error: " + e.Message);
+}
