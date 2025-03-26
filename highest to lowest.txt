@@ -1,0 +1,9 @@
+Input: {86 , 70 , 72 , 72}
+Sort the list in descending order (from highest to lowest).
+Initialize a variable i to 0 to start the loop.
+i=0
+i=-1
+Loop through the list until all elements have been processed:
+Print the current element at position i.
+Increment i by 1 to move to the next element.
+Output: The sorted list of marks from highest to lowest.

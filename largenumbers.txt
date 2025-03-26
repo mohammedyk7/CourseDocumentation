@@ -1,0 +1,5 @@
+find the largest number in the list (1,4,8)
+let a =1  and let b =4 and c=8
+if input greater than a and input greater than b // 
+then let result =c 
+the largest number is 8

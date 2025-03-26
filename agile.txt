@@ -1,0 +1,33 @@
+-- agile methadology of working and its purposes --
+The Agile methodology is a project management technique that prioritizes adaptability and team work. Big businesses like Facebook, Google, Amazon, and others adopt this most recent approach. 
+agile methodologies are well known for breaking a project up into manageable parts and adjusting to changing needs.
+Their key concerns are client satisfaction, teamwork, and flexibility.
+Large companies like Facebook, Google, and Amazon have embraced agile due to its adaptability and customer-focused approach.
+2--AGILE VS WATEWRFALL--
+ADVANTAGES OF AGILE :
+1- flexibilty : allows the team to respond to changes in requirements, client feedback & market trends quickly.
+2-adaptability : ssures that the final product meets the customer's expectations & satisfies their needs.
+3- continious delivery :continuous delivery of operating software solutions. This process confirms that the development team can provide high-quality software solutions to customers quickly.
+DISADVATAGES OF AGILE :
+1- Lack of Predictability :  The team can find it difficult to estimate how long a work would take, and the finished result might not meet the original specifications. Customers and stakeholders that anticipate a predictable timeframe for the software solution's delivery may become frustrated by the lack of predictability. 
+2-Limited Scope:In terms of the software solution's scope, this method may be restrictive. Within the allotted period, the development team can find it difficult to provide a complete solution that satisfies every need of the client.
+ADVANTAGES OF WATERFALL :
+1-less coordination is needed because the stages and sequential operations are clearly defined.
+2-A well-defined project phase aids in defining work dependencies.
+3-Once the requirements are established, the project's cost can be estimated.
+Increased emphasis on requirements and design documentation
+enables big or evolving teams to collaborate toward a shared objective established during the requirements phase.
+DISADVANTAGES OF WATERFALL:
+1-Making adjustments is not supported by the waterfall model.
+2-It can render your earlier work inadmissible.
+3-Clients and end users are not included in this approach.
+4-Testing is postponed until the project is finished.
+5-Longer delivery times may be encouraged by the waterfall methodology.
+agile is used in dynamic environment where waterfall is used in lower risks projects and doesn't require speed
+3-- state all framneworks --
+agile :
+kanban and scrum 
+4-- scrum framework for agile : timings , meetings, roles --
+timimgs : the agile largely depend in the timings for every iterations theres a limited timings 
+meetings : standup meetings (daily) , sprint planning , sprint review and sprint retrospective 
+roles  
