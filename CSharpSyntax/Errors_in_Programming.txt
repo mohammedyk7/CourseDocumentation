@@ -1,4 +1,4 @@
-rrors in Programming
+Errors in Programming//
 
 As a beginner, it's crucial to understand errors in programming:
 
