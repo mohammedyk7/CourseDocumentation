@@ -1,4 +1,12 @@
 ## Array data structure:
-
+Types of Arrays
+== One-Dimensional Array //1
 int[] numbers = {1, 2, 3, 4, 5};
 Console.WriteLine(numbers[2]);  
+== two dimentional Array //2 (matrix)
+matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+console.writeline(matrix[1][2])
+====== Array Methods and Properties =====
+// Array.Sort(): Sorts the elements of the array. //
+// Array.Reverse(): Reverses the order of the elements in the array //
+// Array.IndexOf(): Returns the index of the first occurrence of a value //
