@@ -1,8 +1,11 @@
 Arithmetic and Logic Operators
 
 Arithmetic: +, -, *, /, %
+These operators perform mathematical calculations
 
 Logical: &&, ||, !
+These operators return boolean values (True or False) based on conditions 
+bool result = true;
 
 Example:
 result = (5 > 3) && (10 < 20)
