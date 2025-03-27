@@ -1,4 +1,20 @@
-int Add(int a, int b) {
-  return a + b;
+
+// SIMPLE FUCNTION //
+using System;
+
+class Program {
+    static void Greet() {
+        Console.WriteLine("Hello, World!");
+    }
+    static void Main() {
+        Greet();
+    }
 }
-Console.WriteLine(Add(5, 3));
+==Function with return value :
+static void Main() {
+int x = 9
+int y = 8
+sum = 0;
+    int sum = x + y;
+    Console.WriteLine(" Sum: " + sum);
+}
