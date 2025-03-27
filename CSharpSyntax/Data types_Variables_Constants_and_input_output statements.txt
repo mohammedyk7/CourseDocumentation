@@ -2,7 +2,56 @@ Data Types, Variables, Constants, and I/O Statements
 
 C# Example:
 int age = 25;  // Variable
-const double PI = 3.14;  // Constant
+const double (Double-precision floating-point numbers) PI = 3.14;  // Constant ( we can use float)
 Console.WriteLine("Enter your name:");
 string name = Console.ReadLine();
 Console.WriteLine("Hello " + name);
+// Defining Constants: //
+const double Pi = 3.14159;
+Console.WriteLine($"Value of Pi: {Pi}");
+// Standard Output (Console.WriteLine) //
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Age: " + age);
+// STANDARD INPUT //
+Console.Write("Enter your age: ");
+int age = Convert.ToInt32(Console.ReadLine());
+
+Data Type
+
+Description
+
+Example
+
+int
+
+Integer values
+
+int age = 25;
+
+float
+
+Floating-point numbers (single precision)
+
+float pi = 3.14f;
+
+double
+
+Double-precision floating-point numbers
+
+double gravity = 9.81;
+
+char
+
+Single character
+
+char grade = 'A';
+
+bool
+
+Boolean values (true/false)
+
+bool isPassed = true;
+
+//string//
+Sequence of characters
+string name = "John";
