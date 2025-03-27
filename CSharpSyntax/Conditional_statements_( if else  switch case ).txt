@@ -9,3 +9,5 @@ switch(day) {
   case 1: Console.WriteLine("Monday"); break;
   default: Console.WriteLine("Invalid"); break;
 }
+/// The if-else statement executes a block of code if a specified condition is true. If the condition is false, another block of code can be executed.///
+/// The switch-case statement allows a variable to be tested for equality against multiple values. It provides a cleaner alternative to multiple if-else statements///
