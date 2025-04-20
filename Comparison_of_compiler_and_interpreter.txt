@@ -1,5 +1,0 @@
-compiler: Think of a compiler like a translator. It looks at all the code you wrote, checks it, and translates everything at once into a language the computer can understand. This happens before your program runs. After it's done, the computer can run your program directly and very fast.
-
-Interpreter: An interpreter also translates your code into something the computer can understand, but it does this line by line while the program is running. This means that it can take more time to run your program compared to a compiler.
-
-In C#, the main way the code is turned into a computer-readable form is through compiling, where the code is first turned into something called Intermediate Language (IL). Later, when the program is run, it gets turned into machine code by a part of the system called the Just-In-Time (JIT) compiler.
