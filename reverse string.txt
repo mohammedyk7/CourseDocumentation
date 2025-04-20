@@ -1,7 +1,0 @@
-reverse string :
-for the word string :
-n=6 
-y-1
-z+1
-For each letter from end of string to start: 
-Add letter to result
